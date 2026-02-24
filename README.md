@@ -73,7 +73,7 @@ EDA helped identify important predictors and irrelevant features.
 - Applied **StandardScaler** to numerical features
 
 
-## ⚙ Feature Engineering
+## Feature Engineering
 
 Created additional features to improve model performance:
 
